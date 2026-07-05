@@ -566,10 +566,12 @@ Happy Coding and Best of Luck with Your Interviews! 🚀
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/kiransindam/Top-Interview-150-in-DSA/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/kiransindam/Top-Interview-150-in-DSA/tree/master/0088-merge-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/kiransindam/Top-Interview-150-in-DSA/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/kiransindam/Top-Interview-150-in-DSA/tree/master/0088-merge-sorted-array) |
 ## Sorting
 |  |
