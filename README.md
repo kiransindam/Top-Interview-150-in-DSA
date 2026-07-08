@@ -600,6 +600,7 @@ Happy Coding and Best of Luck with Your Interviews! 🚀
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/kiransindam/Top-Interview-150-in-DSA/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/kiransindam/Top-Interview-150-in-DSA/tree/master/0169-majority-element) |
 | [0380-insert-delete-getrandom-o1](https://github.com/kiransindam/Top-Interview-150-in-DSA/tree/master/0380-insert-delete-getrandom-o1) |
 ## Divide and Conquer
@@ -613,6 +614,7 @@ Happy Coding and Best of Luck with Your Interviews! 🚀
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/kiransindam/Top-Interview-150-in-DSA/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/kiransindam/Top-Interview-150-in-DSA/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/kiransindam/Top-Interview-150-in-DSA/tree/master/0380-insert-delete-getrandom-o1) |
 ## Dynamic Programming
@@ -655,4 +657,8 @@ Happy Coding and Best of Luck with Your Interviews! 🚀
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kiransindam/Top-Interview-150-in-DSA/tree/master/0042-trapping-rain-water) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/kiransindam/Top-Interview-150-in-DSA/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
