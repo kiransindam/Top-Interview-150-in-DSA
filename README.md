@@ -600,6 +600,7 @@ Happy Coding and Best of Luck with Your Interviews! 🚀
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/kiransindam/Top-Interview-150-in-DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/kiransindam/Top-Interview-150-in-DSA/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/kiransindam/Top-Interview-150-in-DSA/tree/master/0169-majority-element) |
 | [0380-insert-delete-getrandom-o1](https://github.com/kiransindam/Top-Interview-150-in-DSA/tree/master/0380-insert-delete-getrandom-o1) |
@@ -614,6 +615,7 @@ Happy Coding and Best of Luck with Your Interviews! 🚀
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/kiransindam/Top-Interview-150-in-DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/kiransindam/Top-Interview-150-in-DSA/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/kiransindam/Top-Interview-150-in-DSA/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/kiransindam/Top-Interview-150-in-DSA/tree/master/0380-insert-delete-getrandom-o1) |
@@ -660,5 +662,6 @@ Happy Coding and Best of Luck with Your Interviews! 🚀
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/kiransindam/Top-Interview-150-in-DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/kiransindam/Top-Interview-150-in-DSA/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
