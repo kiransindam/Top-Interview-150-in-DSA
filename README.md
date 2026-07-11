@@ -666,6 +666,7 @@ Happy Coding and Best of Luck with Your Interviews! 🚀
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/kiransindam/Top-Interview-150-in-DSA/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/kiransindam/Top-Interview-150-in-DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/kiransindam/Top-Interview-150-in-DSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/kiransindam/Top-Interview-150-in-DSA/tree/master/0014-longest-common-prefix) |
