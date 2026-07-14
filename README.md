@@ -614,6 +614,7 @@ Happy Coding and Best of Luck with Your Interviews! 🚀
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/kiransindam/Top-Interview-150-in-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/kiransindam/Top-Interview-150-in-DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/kiransindam/Top-Interview-150-in-DSA/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/kiransindam/Top-Interview-150-in-DSA/tree/master/0169-majority-element) |
@@ -679,6 +680,7 @@ Happy Coding and Best of Luck with Your Interviews! 🚀
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/kiransindam/Top-Interview-150-in-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/kiransindam/Top-Interview-150-in-DSA/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/kiransindam/Top-Interview-150-in-DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/kiransindam/Top-Interview-150-in-DSA/tree/master/0013-roman-to-integer) |
@@ -709,5 +711,6 @@ Happy Coding and Best of Luck with Your Interviews! 🚀
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/kiransindam/Top-Interview-150-in-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/kiransindam/Top-Interview-150-in-DSA/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
