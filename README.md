@@ -719,4 +719,8 @@ Happy Coding and Best of Luck with Your Interviews! 🚀
 | [0030-substring-with-concatenation-of-all-words](https://github.com/kiransindam/Top-Interview-150-in-DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/kiransindam/Top-Interview-150-in-DSA/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/kiransindam/Top-Interview-150-in-DSA/tree/master/0209-minimum-size-subarray-sum) |
+## Database
+|  |
+| ------- |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/kiransindam/Top-Interview-150-in-DSA/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 <!---LeetCode Topics End-->
